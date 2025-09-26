@@ -7,3 +7,7 @@
 
 ## Professional Goals
 My goal is to pursue a Ph.D. in Mechanical/Aerospace Engineering, focusing on advanced control theories for autonomous systems. I am passionate about solving complex dynamics and control problems.
+
+---
+### My Projects
+[Click here to view my key projects](projects.html)

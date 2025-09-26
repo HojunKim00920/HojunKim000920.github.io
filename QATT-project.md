@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # QATT: From Naïve Fusion to a New Paradigm in Uncertainty Quantification
 
 This project documents an intellectual odyssey. It began with a straightforward, albeit naïve, attempt to improve a quadrotor controller and culminated in the foundational principles of my research vision: a new paradigm for quantifying uncertainty by interpreting the internal conflicts within a control architecture.

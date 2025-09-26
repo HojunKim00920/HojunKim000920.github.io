@@ -1,6 +1,8 @@
 # Hojun Kim's Career Portfolio
 
-![Hojun Kim's profile picture](나.jpg)
+<center>
+  <img src="나.jpg" alt="Hojun Kim's profile picture" width="250" />
+</center>
 
 ## About Me
 - **Education**: B.S. in Mechanical Engineering, Northeastern University | Class of 2026

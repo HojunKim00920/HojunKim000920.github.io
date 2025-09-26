@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Fixed-Wing Aircraft Design for National Aerobatic Competition
 
 This project represents my first visceral encounter with the 'Gap' between an ideal model and messy reality. Growing up near an air force base, I was captivated by the flawless flight of fighter jets. This project was my attempt to recreate that perfection, and its challenges ultimately guided me toward the deep questions of control engineering.
@@ -55,7 +58,6 @@ Our team's efforts culminated in a **4th place finish** in the Fixed-Wing Scale 
 <iframe src="https://player.vimeo.com/video/1122079585" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 <p><i>Video 1. Final flight test and aerobatic maneuvers at the competition.</i></p>
 {:/nomarkdown}
-
 
 #### Lessons Learned
 When our meticulously designed aircraft faced unpredictable disturbances and deviated from its planned path, I viscerally experienced the gap between theory and practice. This moved me beyond hardware fabrication and ignited my passion for control engineering—the art of understanding and mastering the unseen forces that govern a system's behavior. This project taught me that the real engineering challenge lies not just in creating an ideal model, but in making that model robust to the chaotic reality of the physical world.

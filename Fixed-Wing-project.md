@@ -17,8 +17,8 @@ My role was to direct the team, oversee system integration, and make critical de
 ### Why: A Formative Success and a Deeper Question
 This project was both a tangible success and a pivotal learning experience that shaped my academic ambitions.
 
-* [cite_start]**Quantifiable Result:** Our team's efforts culminated in a **4th place finish** in the Fixed-Wing Scale Aircraft Division, a significant achievement in a national-level competition[cite: 36].
-* [cite_start]**Lessons Learned:** When our meticulously designed aircraft faced unpredictable disturbances and deviated from its planned path, I viscerally experienced the gap between theory and practice[cite: 110]. [cite_start]This moved me beyond hardware fabrication and ignited my passion for control engineering—the art of understanding and mastering the unseen forces that govern a system's behavior[cite: 111]. This project taught me that the real engineering challenge lies not just in creating an ideal model, but in making that model robust to the chaotic reality of the physical world.
+* **Quantifiable Result:** Our team's efforts culminated in a **4th place finish** in the Fixed-Wing Scale Aircraft Division, a significant achievement in a national-level competition.
+* **Lessons Learned:** When our meticulously designed aircraft faced unpredictable disturbances and deviated from its planned path, I viscerally experienced the gap between theory and practice. This moved me beyond hardware fabrication and ignited my passion for control engineering—the art of understanding and mastering the unseen forces that govern a system's behavior. This project taught me that the real engineering challenge lies not just in creating an ideal model, but in making that model robust to the chaotic reality of the physical world.
 
 ---
 *[Back to Project List](projects.html)*

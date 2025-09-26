@@ -2,7 +2,7 @@
 
 ## About Me
 - **Education**: B.S. in Mechanical Engineering, Northeastern University | Class of 2026
-- **Interests**: Nonlinear control | Motion Planning | Robust Control
+- **Interests**: [Nonlinear control | Motion Planning | Robust Control](research-interests.html)
 - **Contact**: your-email@email.com | [LinkedIn Profile](https://www.linkedin.com/)
 
 ## Professional Goals

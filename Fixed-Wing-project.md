@@ -51,9 +51,8 @@ This project was both a tangible success and a pivotal learning experience that 
 #### Final Flight & Competition Result
 Our team's efforts culminated in a **4th place finish** in the Fixed-Wing Scale Aircraft Division, a significant achievement in a national-level competition. The aircraft successfully executed all planned aerobatic maneuvers.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1122079585?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="flight video"></iframe></div>
-
-*<center>Video 1. Final flight test and aerobatic maneuvers at the competition.</center>*
+<iframe src="https://player.vimeo.com/video/1122079585" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><i>Video 1. Final flight test and aerobatic maneuvers at the competition.</i></p>
 
 #### Lessons Learned
 When our meticulously designed aircraft faced unpredictable disturbances...

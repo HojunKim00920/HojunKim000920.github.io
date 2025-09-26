@@ -1,5 +1,7 @@
 # Hojun Kim's Career Portfolio
 
+![Hojun Kim's profile picture](profile.jpg)
+
 ## About Me
 - **Education**: B.S. in Mechanical Engineering, Northeastern University | Class of 2026
 - **Interests**: Nonlinear control | Motion Planning | [Robust Control](research-interests.html)

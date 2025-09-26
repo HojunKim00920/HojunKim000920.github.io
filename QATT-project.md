@@ -37,13 +37,12 @@ I redefined this 'Gap' not as a nuisance to be eliminated, but as the most infor
 
 This re-framing elevated the project from a technical exercise to a new paradigm for real-time uncertainty quantification.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/helix_roll.jpg" title="Fig 1: The observed 'Gap' between command signals" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    A graph from simulation plotting `ϕ_des` and `ϕ_DF` over time, clearly showing the persistent 'Gap'.
+<p align="center">
+    <img src="assets/img/helix_roll.jpg" alt="Fig 1: The observed 'Gap' between command signals" style="max-width: 100%; height: auto; border-radius: 5px;">
+</p>
+
+<div style="text-align: center; font-style: italic; color: #555;">
+    Fig 1: A graph from simulation plotting `ϕ_des` and `ϕ_DF` over time, clearly showing the persistent 'Gap'.
 </div>
 
 ---

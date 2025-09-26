@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Projects
 
 A showcase of my key research and engineering projects.

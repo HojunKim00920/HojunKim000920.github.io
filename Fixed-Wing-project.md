@@ -25,10 +25,10 @@ Our design was inspired by the classic Douglas DC-3. The first step was a meticu
 #### 2. CAD Modeling & Digital Fabrication
 Using SolidWorks and AutoCAD, I translated our analysis into a high-fidelity 3D model and prepared the components for manufacturing. This digital phase was critical for ensuring precision and optimizing the airframe structure before any physical materials were cut.
 
-![Full 3D CAD assembly of the aircraft's internal structure in SolidWorks](전체_assm.jpg)
+![Full 3D CAD assembly of the aircraft's internal structure in SolidWorks](전체_assm.png)
 *<center>Fig 3. The complete 3D CAD assembly, validating the structural integrity of the design.</center>*
 
-![Laser cutter schematics for all wooden components, laid out for manufacturing](도면.png)
+![Laser cutter schematics for wooden components, laid out for manufacturing](도면.png)
 *<center>Fig 4. 2D layouts derived from the 3D model, prepared for high-precision laser cutting.</center>*
 
 #### 3. Physical Assembly & Systems Integration

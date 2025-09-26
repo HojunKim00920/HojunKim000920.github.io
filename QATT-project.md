@@ -38,7 +38,7 @@ I redefined this 'Gap' not as a nuisance to be eliminated, but as the most infor
 This re-framing elevated the project from a technical exercise to a new paradigm for real-time uncertainty quantification.
 
 <p align="center">
-    <img src="assets/img/helix_roll.jpg" alt="Fig 1: The observed 'Gap' between command signals" style="max-width: 100%; height: auto; border-radius: 5px;">
+    <img src="helix_roll.jpg" alt="Fig 1: The observed 'Gap' between command signals" style="max-width: 100%; height: auto; border-radius: 5px;">
 </p>
 
 <div style="text-align: center; font-style: italic; color: #555;">

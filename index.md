@@ -1,7 +1,7 @@
 # Hojun Kim's Career Portfolio
 
 <div align="right">
-  <img src="profile.jpg" alt="Hojun Kim's profile picture" width="250" />
+  <img src="profile.jpg" alt="Hojun Kim's profile picture" width="175" />
 </div>
 
 ## About Me

@@ -7,7 +7,7 @@ My core research ambition is to develop control architectures that can provably 
 
 ---
 
-### Robust Control
+### [Robust Control](robust-control.html)
 My fascination with robust control stems from a core belief that the true challenge in engineering is not creating a perfect model, but making a system resilient to the inevitable gap between model and reality. My work on the QATT project, particularly with Sliding Mode Control (SMC), was a practical exploration of designing controllers that maintain stability and performance despite significant uncertainties. I am keen to explore how these principles can be extended to create more adaptive and less conservative robust systems.
 
 ### Optimization & Optimal Control

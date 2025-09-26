@@ -51,8 +51,12 @@ This project was both a tangible success and a pivotal learning experience that 
 #### Final Flight & Competition Result
 Our team's efforts culminated in a **4th place finish** in the Fixed-Wing Scale Aircraft Division, a significant achievement in a national-level competition. The aircraft successfully executed all planned aerobatic maneuvers.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1122079585?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="flight video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1122079585?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="flight video"></iframe></div>
+
 *<center>Video 1. Final flight test and aerobatic maneuvers at the competition.</center>*
+
+#### Lessons Learned
+When our meticulously designed aircraft faced unpredictable disturbances...
 
 #### Lessons Learned
 When our meticulously designed aircraft faced unpredictable disturbances and deviated from its planned path, I viscerally experienced the gap between theory and practice. This moved me beyond hardware fabrication and ignited my passion for control engineering—the art of understanding and mastering the unseen forces that govern a system's behavior. This project taught me that the real engineering challenge lies not just in creating an ideal model, but in making that model robust to the chaotic reality of the physical world.

@@ -8,7 +8,7 @@ This project documents an intellectual odyssey. It began with a straightforward,
 ---
 
 ### Phase 1: The Naïve Fusion Hypothesis
-My research began upon receiving the QATT problem from my advisor, Prof. Rifat Sipahi. Inspired by the impressive results from literature on **Differential Flatness (DF)**, particularly Ezra Tal's INDI research, and the robustness of **Sliding Mode Control with a Disturbance Observer (SMC+DOB)** from Jing et al., I formed a simple hypothesis: combining the two would yield superior performance for aggressive maneuvers.
+My research began upon receiving the QATT problem from my advisor, Prof. Rifat Sipahi. Inspired by the impressive results from literature on **Differential Flatness (DF)**, particularly **[Ezra Tal's INDI research](https://arxiv.org/abs/1809.04048)**, and the robustness of **Sliding Mode Control with a Disturbance Observer (SMC+DOB)** from **[Jing et al.](https://www.mdpi.com/2504-446X/6/9/261)**, I formed a simple hypothesis: combining the two would yield superior performance for aggressive maneuvers.
 
 * **Baseline Controller (C1):** The robust SMC+DOB framework from Jing et al., which tracks up to the 2nd order derivatives (position, velocity, acceleration) of a given trajectory.
 * **Experimental Controller (C5):** My initial modification. I replaced the reference attitude rates/accelerations (`ϕ_des`, `θ_des`) in the inner SMC loop with values derived from DF (`ϕ_DF`, `θ_DF`), which contain higher-order derivative information (jerk, snap). This was a direct, superficial application of Tal's structure to Jing's controller.
@@ -37,7 +37,14 @@ I redefined this 'Gap' not as a nuisance to be eliminated, but as the most infor
 
 This re-framing elevated the project from a technical exercise to a new paradigm for real-time uncertainty quantification.
 
-* **[Insert Image Here: A graph plotting `ϕ_des` and `ϕ_DF` over time from one of your simulations, clearly labeling the 'Gap']**
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/helix_roll.jpg" title="Fig 1: The observed 'Gap' between command signals" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    A graph from simulation plotting `ϕ_des` and `ϕ_DF` over time, clearly showing the persistent 'Gap'.
+</div>
 
 ---
 

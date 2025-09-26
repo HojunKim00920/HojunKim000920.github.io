@@ -32,7 +32,7 @@ Using SolidWorks and AutoCAD, I translated our analysis into a high-fidelity 3D 
 *<center>Fig 4. 2D layouts derived from the 3D model, prepared for high-precision laser cutting.</center>*
 
 #### 3. Physical Assembly & Systems Integration
-I managed the entire fabrication and assembly process, leading the team as we brought the digital model to life. This involved meticulous hands-on work, from constructing the plywood frame to integrating all electronic systems.
+I managed the entire fabrication and assembly process, leading the team as we brought the digital model to life. This involved meticulous hands-on work, from constructing the balsa wood frame to integrating all electronic systems.
 
 ![The internal wooden frame of the aircraft during the assembly process](조립_1.jpg)
 *<center>Fig 5. The aircraft's skeleton takes shape during the assembly phase.</center>*
@@ -50,6 +50,9 @@ This project was both a tangible success and a pivotal learning experience that 
 
 #### Final Flight & Competition Result
 Our team's efforts culminated in a **4th place finish** in the Fixed-Wing Scale Aircraft Division, a significant achievement in a national-level competition. The aircraft successfully executed all planned aerobatic maneuvers.
+
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1122079585?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="flight video"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+*<center>Video 1. Final flight test and aerobatic maneuvers at the competition.</center>*
 
 #### Lessons Learned
 When our meticulously designed aircraft faced unpredictable disturbances and deviated from its planned path, I viscerally experienced the gap between theory and practice. This moved me beyond hardware fabrication and ignited my passion for control engineering—the art of understanding and mastering the unseen forces that govern a system's behavior. This project taught me that the real engineering challenge lies not just in creating an ideal model, but in making that model robust to the chaotic reality of the physical world.

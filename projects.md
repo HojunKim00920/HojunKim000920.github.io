@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<nav style="text-align:center;">
+<nav style="text-align:center; margin-bottom:20px;">
   <a href="index.html">Home</a> |
   <a href="projects.html">Projects</a> |
   <a href="research-interests.html">Research</a> |
@@ -19,7 +19,7 @@ A showcase of my key research and engineering projects.
 An independent research project where I explored the fundamental limitations of hybrid control architectures and proposed a new paradigm for uncertainty quantification by re-defining the command 'Gap' as a rich information signal.  
 - **[View Project Details](QATT-project.html)**  
 
-**Skills/Tools**: MATLAB/Simulink, Nonlinear Control, Optimization
+**Skills/Tools**: MATLAB/Simulink, Nonlinear Control, Optimization  
 
 ---
 
@@ -27,10 +27,13 @@ An independent research project where I explored the fundamental limitations of 
 As the team leader of the Chung-Ang Aerospace Club, I directed a 4-member team through the complete design-build-test lifecycle of an RC aircraft, culminating in a 4th place finish at a national-level university competition.  
 - **[View Project Details](Fixed-Wing-project.html)**  
 
-**Skills/Tools**: SolidWorks, Manufacturing, Team Leadership, Prototyping, Testing
+**Skills/Tools**: SolidWorks, Manufacturing, Prototyping, Testing  
 
 ---
 
-<nav style="text-align:center;">
-  <a href="index.html">⬅ Back to Home</a>
+<nav style="text-align:center; margin-top:20px;">
+  <a href="projects.html">⬅ Back to Projects</a> | 
+  <a href="index.html">⬅ Back to Home</a> | 
+  <a href="research-interests.html">Research</a> | 
+  <a href="contact.html">Contact</a>
 </nav>

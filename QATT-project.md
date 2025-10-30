@@ -1,6 +1,15 @@
 ---
 layout: default
 ---
+
+<nav style="text-align:center; margin-bottom:20px;">
+  <a href="index.html">Home</a> |
+  <a href="projects.html">Projects</a> |
+  <a href="research-interests.html">Research</a> |
+  <a href="contact.html">Contact</a>
+</nav>
+
+---
 # QATT: From Naïve Fusion to a New Paradigm in Uncertainty Quantification
 
 This project documents an intellectual odyssey. It began with a straightforward, albeit naïve, attempt to improve a quadrotor controller and culminated in the foundational principles of my research vision: a new paradigm for quantifying uncertainty by interpreting the internal conflicts within a control architecture.
@@ -58,3 +67,12 @@ My undergraduate work provided the first concrete evidence for this hypothesis. 
 
 ### Connection to My Research Interests
 This entire intellectual journey is the bedrock of my passion for **Robust Control, Optimization, and Nonlinear Dynamics**. It embodies my ultimate research goal: to design control architectures that can **provably guarantee** safety and performance under uncertainty. The 'Gap' philosophy is my first concrete step toward achieving **Provably Safe Autonomy**, moving beyond simply rejecting uncertainty and toward actively understanding and exploiting it.
+
+---
+
+<nav style="text-align:center; margin-top:20px;">
+  <a href="projects.html">⬅ Back to Projects</a> | 
+  <a href="index.html">⬅ Back to Home</a> | 
+  <a href="research-interests.html">Research</a> | 
+  <a href="contact.html">Contact</a>
+</nav>

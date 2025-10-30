@@ -1,6 +1,14 @@
 ---
 layout: default
 ---
+
+<nav style="text-align:center; margin-bottom:20px;">
+  <a href="index.html">Home</a> |
+  <a href="projects.html">Projects</a> |
+  <a href="research-interests.html">Research</a> |
+  <a href="contact.html">Contact</a>
+</nav>
+
 # Fixed-Wing Aircraft Design for National Aerobatic Competition
 
 This project represents my first visceral encounter with the 'Gap' between an ideal model and messy reality. Growing up near an air force base, I was captivated by the flawless flight of fighter jets. This project was my attempt to recreate that perfection, and its challenges ultimately guided me toward the deep questions of control engineering.
@@ -63,4 +71,11 @@ Our team's efforts culminated in a **4th place finish** in the Fixed-Wing Scale 
 When our meticulously designed aircraft faced unpredictable disturbances and deviated from its planned path, I viscerally experienced the gap between theory and practice. This moved me beyond hardware fabrication and ignited my passion for control engineering—the art of understanding and mastering the unseen forces that govern a system's behavior. This project taught me that the real engineering challenge lies not just in creating an ideal model, but in making that model robust to the chaotic reality of the physical world.
 
 ---
-*[Back to Project List](projects.html)*
+
+<nav style="text-align:center; margin-top:20px;">
+  <a href="projects.html">⬅ Back to Projects</a> | 
+  <a href="index.html">⬅ Back to Home</a> | 
+  <a href="QATT-project.html">⬅ Previous Project: QATT</a> | 
+  <a href="research-interests.html">Research</a> | 
+  <a href="contact.html">Contact</a>
+</nav>

@@ -32,7 +32,6 @@ As the team leader of the Chung-Ang Aerospace Club, I directed a 4-member team t
 ---
 
 <nav style="text-align:center; margin-top:20px;">
-  <a href="projects.html">⬅ Back to Projects</a> | 
   <a href="index.html">⬅ Back to Home</a> | 
   <a href="research-interests.html">Research</a> | 
   <a href="contact.html">Contact</a>

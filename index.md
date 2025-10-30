@@ -5,7 +5,7 @@
 </div>
 
 ## About Me
-I am Hojun Kim, originally from South Korea, and currently pursuing a B.S. in Mechanical Engineering with a Mathematics minor at Northeastern University (Class of 2026).  
+I am Hojun Kim, originally from South Korea, and currently pursuing a B.S. in Mechanical Engineering with a Mathematics minor at Northeastern University.
 After completing two years at Chung-Ang University in Seoul, I transferred to Northeastern to deepen my studies in dynamics, control, and robotics.  
 
 My academic journey has been shaped by both discipline and curiosity: from leading a UAV team during my undergraduate years, to conducting self-initiated research on quadrotor aggressive trajectory tracking (QATT). These experiences have taught me the importance of robust autonomy in unpredictable environments.  

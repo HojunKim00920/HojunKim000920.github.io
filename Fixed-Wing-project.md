@@ -63,9 +63,23 @@ This project was both a tangible success and a pivotal learning experience that 
 Our team's efforts culminated in a **4th place finish** in the Fixed-Wing Scale Aircraft Division, a significant achievement in a national-level competition. The aircraft successfully executed all planned aerobatic maneuvers.
 
 <center>
-  <iframe src="https://player.vimeo.com/video/1122079585" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+  <div style="position:relative; width:100%; max-width:800px; margin:0 auto;">
+    <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;">
+      <video
+        controls
+        playsinline
+        preload="metadata"
+        style="position:absolute; top:0; left:0; width:100%; height:100%;"
+        poster="assets/fixed_wing_thumb.jpg">
+        <!-- MP4 우선 (Safari 호환) -->
+        <source src="videos/fixed_wing_flight.mp4?v=1" type="video/mp4">
+        Your browser does not support the video tag.
+      </video>
+    </div>
+  </div>
   <p><i>Video 1. Final flight test and aerobatic maneuvers at the competition.</i></p>
 </center>
+
 
 #### Lessons Learned
 When our meticulously designed aircraft faced unpredictable disturbances and deviated from its planned path, I viscerally experienced the gap between theory and practice. This moved me beyond hardware fabrication and ignited my passion for control engineering—the art of understanding and mastering the unseen forces that govern a system's behavior. This project taught me that the real engineering challenge lies not just in creating an ideal model, but in making that model robust to the chaotic reality of the physical world.

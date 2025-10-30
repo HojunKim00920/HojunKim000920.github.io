@@ -72,7 +72,7 @@ This entire intellectual journey is the bedrock of my passion for **Robust Contr
 <nav style="text-align:center; margin-top:20px;">
   <a href="projects.html">⬅ Back to Projects</a> | 
   <a href="index.html">⬅ Back to Home</a> | 
-  <a href="QATT-project.html">⬅ Previous Project: QATT</a> | 
+  <a href="Fixed-Wing-project.html">Next Project: Fixed-Wing Aircraft ➡</a> |
   <a href="research-interests.html">Research</a> | 
   <a href="contact.html">Contact</a>
 </nav>
